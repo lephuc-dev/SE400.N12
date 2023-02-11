@@ -1,9 +1,7 @@
-scores_ = [
+scores = [
     'total_score',
-    'like_by_members'
     'quality_of_life_score',
     'family_score',
-    'community_score',
     'cost',
     'internet',
     'fun',
@@ -11,10 +9,7 @@ scores_ = [
     'humidity',
     'air_quality',
     'safety',
-    'lack_of_crime',
-    'lack_of_racism',
     'education_level',
-    'income_level',
     'english_speaking',
     'walkability',
     'peace',
@@ -22,12 +17,12 @@ scores_ = [
     'hospitals',
     'happiness',
     'nightlife',
-    'free_wiFi_in_city',
+    'free_wifi_in_city',
     'places_to_work_from',
-    'a/c_or_heating',
+    'ac_or_heating',
     'friendly_to_foreigners',
     'freedom_of_speech',
     'female_friendly',
-    'lgbt+_friendly',
+    'lgbt_friendly',
     'startup_score',
 ]
