@@ -26,3 +26,24 @@ scores = [
     'lgbt_friendly',
     'startup_score',
 ]
+
+selected_set_1 = [
+    'cost',
+    'fun',
+    'temperature',
+    'humidity',
+    'walkability',
+]
+
+selected_set_2 = [
+    'cost',
+    'fun',
+    'temperature',
+    'humidity',
+]
+
+selected_set_3 = [
+    'cost',
+    'temperature',
+    'humidity',
+]

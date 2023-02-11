@@ -1,7 +1,7 @@
 from utils import functions
 from bs4 import BeautifulSoup
 import cloudscraper
-from utils.scores import scores
+from utils.criteria import scores
 import json
 
 data = []
