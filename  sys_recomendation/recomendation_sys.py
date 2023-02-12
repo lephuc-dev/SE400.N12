@@ -137,15 +137,15 @@ def get_recommendations(
 
 
 if len(city_features) == 5:
-    input_file_path = './scale-data/scaled-data-test-1.json'
+    input_file_path = './scale_data/scaled-data-test-1.json'
     input_clusters_file_path = './kmeans/files/test-1/clusters-test-1.json'
     input_cities_info_file_path = './kmeans/files/test-1/fixture-test-1.json'
 elif len(city_features) == 4:
-    input_file_path = './scale-data/scaled-data-test-2.json'
+    input_file_path = './scale_data/scaled-data-test-2.json'
     input_clusters_file_path = './kmeans/files/test-2/clusters-test-2.json'
     input_cities_info_file_path = './kmeans/files/test-2/fixture-test-2.json'
 else:
-    input_file_path = './scale-data/scaled-data-test-3.json'
+    input_file_path = './scale_data/scaled-data-test-3.json'
     input_clusters_file_path = './kmeans/files/test-3/clusters-test-3.json'
     input_cities_info_file_path = './kmeans/files/test-3/fixture-test-3.json'
 
