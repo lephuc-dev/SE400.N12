@@ -2,6 +2,159 @@
     {
         "cluster_id": 0,
         "cities": [
+            "ploiesti",
+            "burgas"
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "cities": [
+            "atlanta",
+            "dallas",
+            "tampa",
+            "singapore",
+            "pittsburgh",
+            "honolulu",
+            "washington",
+            "portland",
+            "houston",
+            "boston",
+            "nashville",
+            "new-orleans",
+            "edinburgh",
+            "miami",
+            "manchester"
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "cities": [
+            "lahore",
+            "cairo",
+            "karachi"
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "cities": [
+            "louisville",
+            "buffalo",
+            "san-diego",
+            "raleigh",
+            "richmond",
+            "seattle",
+            "asheville",
+            "boise",
+            "jacksonville",
+            "fresno",
+            "northampton",
+            "charlotte"
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "cities": [
+            "brasov",
+            "constanta",
+            "riga",
+            "iasi",
+            "klaipeda"
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "cities": [
+            "patna",
+            "lagos",
+            "kozhikode",
+            "vijayawada"
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "cities": [
+            "cancun",
+            "panama-city"
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "cities": [
+            "jinan",
+            "nanning",
+            "dongying",
+            "jilin"
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "cities": [
+            "gainesville",
+            "knoxville",
+            "chico",
+            "oklahoma-city",
+            "colorado-springs",
+            "huntsville"
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "cities": [
+            "kathmandu",
+            "cuenca",
+            "quito"
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "cities": [
+            "sofia",
+            "seoul",
+            "busan",
+            "daegu",
+            "daejeon",
+            "gwangju"
+        ]
+    },
+    {
+        "cluster_id": 11,
+        "cities": [
+            "tallinn",
+            "berlin",
+            "dresden",
+            "toronto",
+            "prague",
+            "groningen",
+            "amsterdam",
+            "helsinki",
+            "tampere",
+            "aachen",
+            "aberdeen",
+            "rotterdam",
+            "nottingham",
+            "stuttgart"
+        ]
+    },
+    {
+        "cluster_id": 12,
+        "cities": [
+            "surabaya",
+            "denpasar",
+            "yogyakarta",
+            "surakarta",
+            "kuta"
+        ]
+    },
+    {
+        "cluster_id": 13,
+        "cities": [
+            "rio-de-janeiro",
+            "sao-paulo"
+        ]
+    },
+    {
+        "cluster_id": 14,
+        "cities": [
             "huizhou",
             "shantou",
             "jiangmen",
@@ -11,399 +164,203 @@
         ]
     },
     {
-        "cluster_id": 1,
-        "cities": [
-            "tucson",
-            "louisville",
-            "buffalo",
-            "raleigh",
-            "richmond",
-            "asheville",
-            "boise",
-            "jacksonville",
-            "fresno",
-            "charlotte"
-        ]
-    },
-    {
-        "cluster_id": 2,
-        "cities": [
-            "lima",
-            "lagos",
-            "santo-domingo"
-        ]
-    },
-    {
-        "cluster_id": 3,
-        "cities": [
-            "varna",
-            "ploiesti",
-            "constanta",
-            "novi-sad",
-            "nis",
-            "burgas"
-        ]
-    },
-    {
-        "cluster_id": 4,
-        "cities": [
-            "tallinn",
-            "berlin",
-            "dresden",
-            "groningen",
-            "vancouver",
-            "amsterdam",
-            "helsinki",
-            "wellington",
-            "tartu",
-            "tampere",
-            "windsor",
-            "aachen",
-            "kitchener",
-            "leiden",
-            "oshawa",
-            "jyvaskyla",
-            "oulu"
-        ]
-    },
-    {
-        "cluster_id": 5,
-        "cities": [
-            "bengaluru",
-            "nairobi",
-            "delhi",
-            "hyderabad",
-            "noida",
-            "jaipur"
-        ]
-    },
-    {
-        "cluster_id": 6,
-        "cities": [
-            "zagreb",
-            "poznan",
-            "zadar",
-            "dubrovnik",
-            "rijeka",
-            "split",
-            "paphos",
-            "katowice",
-            "osijek",
-            "chania"
-        ]
-    },
-    {
-        "cluster_id": 7,
-        "cities": [
-            "rio-de-janeiro",
-            "cancun",
-            "sao-paulo",
-            "makati",
-            "pattaya",
-            "monterrey",
-            "panama-city",
-            "goiania"
-        ]
-    },
-    {
-        "cluster_id": 8,
-        "cities": [
-            "giza",
-            "lahore",
-            "cairo",
-            "casablanca",
-            "karachi"
-        ]
-    },
-    {
-        "cluster_id": 9,
-        "cities": [
-            "chiang-mai",
-            "ho-chi-minh-city",
-            "beirut",
-            "antalya",
-            "marrakesh",
-            "guangzhou",
-            "shanghai"
-        ]
-    },
-    {
-        "cluster_id": 10,
-        "cities": [
-            "almaty",
-            "chisinau",
-            "gaziantep",
-            "amman",
-            "rzeszow"
-        ]
-    },
-    {
-        "cluster_id": 11,
-        "cities": [
-            "guadalajara",
-            "cuenca",
-            "quito",
-            "merida",
-            "cartagena",
-            "hermosillo",
-            "belem",
-            "aguascalientes"
-        ]
-    },
-    {
-        "cluster_id": 12,
-        "cities": [
-            "kathmandu",
-            "hanoi",
-            "patna",
-            "madurai",
-            "kozhikode",
-            "da-lat"
-        ]
-    },
-    {
-        "cluster_id": 13,
-        "cities": [
-            "toronto",
-            "san-francisco",
-            "victoria",
-            "denver",
-            "aberdeen",
-            "chicago",
-            "rotterdam",
-            "dublin",
-            "northampton",
-            "nottingham"
-        ]
-    },
-    {
-        "cluster_id": 14,
-        "cities": [
-            "cincinnati",
-            "syracuse",
-            "bedford",
-            "guelph",
-            "riverside",
-            "providence",
-            "luton",
-            "baton-rouge"
-        ]
-    },
-    {
         "cluster_id": 15,
         "cities": [
-            "new-york-city",
-            "honolulu",
-            "los-angeles",
-            "san-diego",
-            "las-vegas",
-            "washington",
-            "boston",
-            "seattle",
-            "miami",
-            "nice",
-            "boulder"
+            "istanbul",
+            "antalya",
+            "alanya"
         ]
     },
     {
         "cluster_id": 16,
         "cities": [
-            "timisoara",
-            "tbilisi",
-            "brasov",
-            "riga",
-            "iasi",
-            "klaipeda"
+            "delhi",
+            "hyderabad",
+            "nagpur",
+            "kochi",
+            "kolkata",
+            "mumbai"
         ]
     },
     {
         "cluster_id": 17,
         "cities": [
-            "lisbon",
-            "portimao",
-            "porto",
-            "braga",
-            "aveiro",
-            "singapore",
-            "coimbra"
+            "calgary",
+            "oslo"
         ]
     },
     {
         "cluster_id": 18,
         "cities": [
-            "faro",
-            "calgary",
-            "rochester",
-            "jena",
-            "graz",
-            "karlsruhe",
-            "hagen"
+            "hanoi",
+            "johor-bahru"
         ]
     },
     {
         "cluster_id": 19,
-        "cities": [
-            "munich",
-            "london",
-            "stockholm",
-            "prague",
-            "hamburg",
-            "leicester",
-            "edinburgh",
-            "valencia",
-            "montreal",
-            "oslo",
-            "stuttgart"
-        ]
-    },
-    {
-        "cluster_id": 20,
-        "cities": [
-            "sofia",
-            "seoul",
-            "busan",
-            "daegu",
-            "daejeon",
-            "suwon",
-            "gwangju"
-        ]
-    },
-    {
-        "cluster_id": 21,
-        "cities": [
-            "cape-town",
-            "johannesburg",
-            "pretoria",
-            "durban"
-        ]
-    },
-    {
-        "cluster_id": 22,
-        "cities": [
-            "surabaya",
-            "denpasar",
-            "yogyakarta",
-            "surakarta",
-            "kuta",
-            "antananarivo"
-        ]
-    },
-    {
-        "cluster_id": 23,
         "cities": [
             "ipoh",
             "semarang"
         ]
     },
     {
-        "cluster_id": 24,
+        "cluster_id": 20,
         "cities": [
-            "istanbul",
-            "alanya",
-            "tashkent",
-            "adana",
-            "izmir",
-            "ankara",
-            "konya"
+            "winnipeg",
+            "vancouver",
+            "wellington",
+            "windsor",
+            "kitchener",
+            "leiden",
+            "reykjavik",
+            "oshawa",
+            "jyvaskyla",
+            "oulu"
         ]
     },
     {
-        "cluster_id": 25,
-        "cities": [
-            "kuala-lumpur",
-            "manila",
-            "jakarta",
-            "kota-kinabalu",
-            "kuching",
-            "johor-bahru"
-        ]
-    },
-    {
-        "cluster_id": 26,
-        "cities": [
-            "taipei",
-            "santiago",
-            "kaohsiung",
-            "taichung"
-        ]
-    },
-    {
-        "cluster_id": 27,
-        "cities": [
-            "huainan",
-            "jiamusi",
-            "jiaxing",
-            "jinan",
-            "nanning",
-            "dongying",
-            "jilin"
-        ]
-    },
-    {
-        "cluster_id": 28,
-        "cities": [
-            "phnom-penh",
-            "yerevan",
-            "asuncion",
-            "guwahati",
-            "fes",
-            "rabat",
-            "tunis"
-        ]
-    },
-    {
-        "cluster_id": 29,
-        "cities": [
-            "warsaw",
-            "gdansk",
-            "budapest",
-            "krakow",
-            "szczecin",
-            "brno",
-            "bratislava",
-            "lublin",
-            "athens",
-            "vilnius",
-            "kosice"
-        ]
-    },
-    {
-        "cluster_id": 30,
+        "cluster_id": 21,
         "cities": [
             "mallorca",
-            "phuket",
-            "cordoba",
-            "barcelona",
-            "naha",
-            "alicante",
-            "montpellier",
-            "mar-del-plata",
+            "nice",
+            "valencia",
+            "montreal",
             "tokyo",
             "bremen",
             "madrid"
         ]
     },
     {
+        "cluster_id": 22,
+        "cities": [
+            "cape-town",
+            "pretoria"
+        ]
+    },
+    {
+        "cluster_id": 23,
+        "cities": [
+            "budapest",
+            "krakow",
+            "brno",
+            "bratislava",
+            "lublin",
+            "kosice",
+            "suwon"
+        ]
+    },
+    {
+        "cluster_id": 24,
+        "cities": [
+            "barcelona",
+            "alicante",
+            "montpellier",
+            "albuquerque"
+        ]
+    },
+    {
+        "cluster_id": 25,
+        "cities": [
+            "wichita",
+            "riverside",
+            "ashland",
+            "memphis"
+        ]
+    },
+    {
+        "cluster_id": 26,
+        "cities": [
+            "los-angeles",
+            "las-vegas"
+        ]
+    },
+    {
+        "cluster_id": 27,
+        "cities": [
+            "aveiro",
+            "naha"
+        ]
+    },
+    {
+        "cluster_id": 28,
+        "cities": [
+            "chisinau",
+            "gaziantep"
+        ]
+    },
+    {
+        "cluster_id": 29,
+        "cities": [
+            "taipei",
+            "kaohsiung",
+            "taichung"
+        ]
+    },
+    {
+        "cluster_id": 30,
+        "cities": [
+            "zagreb",
+            "poznan",
+            "katowice"
+        ]
+    },
+    {
         "cluster_id": 31,
         "cities": [
-            "ko-samui",
-            "rosario"
+            "chiang-mai",
+            "phuket",
+            "pattaya"
         ]
     },
     {
         "cluster_id": 32,
         "cities": [
-            "medellin",
-            "florianopolis",
-            "porto-alegre",
-            "bogota",
-            "belo-horizonte",
-            "campinas",
-            "uberlandia"
+            "goiania"
         ]
     },
     {
         "cluster_id": 33,
+        "cities": [
+            "cincinnati",
+            "syracuse",
+            "bedford",
+            "providence",
+            "luton",
+            "baton-rouge"
+        ]
+    },
+    {
+        "cluster_id": 34,
+        "cities": [
+            "noida",
+            "lucknow",
+            "ludhiana"
+        ]
+    },
+    {
+        "cluster_id": 35,
+        "cities": [
+            "san-antonio",
+            "ljubljana",
+            "minneapolis",
+            "salt-lake-city",
+            "tucson",
+            "victoria",
+            "denver"
+        ]
+    },
+    {
+        "cluster_id": 36,
+        "cities": [
+            "munich",
+            "new-york-city",
+            "london",
+            "stockholm",
+            "boulder"
+        ]
+    },
+    {
+        "cluster_id": 37,
         "cities": [
             "perth",
             "melbourne",
@@ -412,90 +369,334 @@
         ]
     },
     {
-        "cluster_id": 34,
-        "cities": [
-            "gainesville",
-            "indianapolis",
-            "madison",
-            "knoxville",
-            "wichita",
-            "chico",
-            "fargo",
-            "grand-rapids",
-            "oklahoma-city",
-            "albuquerque",
-            "bloomington",
-            "ashland",
-            "colorado-springs",
-            "huntsville",
-            "des-moines",
-            "memphis",
-            "oakland",
-            "provo"
-        ]
-    },
-    {
-        "cluster_id": 35,
-        "cities": [
-            "lucknow",
-            "ahmedabad",
-            "jabalpur",
-            "nagpur",
-            "ludhiana",
-            "vadodara",
-            "chandigarh",
-            "thrissur",
-            "vijayawada",
-            "kochi",
-            "kolkata",
-            "mumbai",
-            "coimbatore"
-        ]
-    },
-    {
-        "cluster_id": 36,
-        "cities": [
-            "atlanta",
-            "san-antonio",
-            "ljubljana",
-            "dallas",
-            "tampa",
-            "minneapolis",
-            "salt-lake-city",
-            "pittsburgh",
-            "columbus",
-            "portland",
-            "houston",
-            "nashville",
-            "new-orleans",
-            "manchester"
-        ]
-    },
-    {
-        "cluster_id": 37,
-        "cities": [
-            "sydney",
-            "winnipeg",
-            "regina",
-            "saskatoon",
-            "reykjavik"
-        ]
-    },
-    {
         "cluster_id": 38,
         "cities": [
-            "colombo",
-            "dubai",
-            "doha",
-            "sharjah"
+            "split",
+            "paphos",
+            "chania"
         ]
     },
     {
         "cluster_id": 39,
         "cities": [
-            "bangkok",
+            "bengaluru",
+            "nairobi",
+            "jaipur"
+        ]
+    },
+    {
+        "cluster_id": 40,
+        "cities": [
+            "lima",
+            "phnom-penh",
+            "santo-domingo"
+        ]
+    },
+    {
+        "cluster_id": 41,
+        "cities": [
+            "ho-chi-minh-city",
+            "guangzhou"
+        ]
+    },
+    {
+        "cluster_id": 42,
+        "cities": [
+            "guadalajara",
+            "merida",
+            "hermosillo",
+            "aguascalientes"
+        ]
+    },
+    {
+        "cluster_id": 43,
+        "cities": [
+            "beirut",
+            "makati"
+        ]
+    },
+    {
+        "cluster_id": 44,
+        "cities": [
+            "antananarivo"
+        ]
+    },
+    {
+        "cluster_id": 45,
+        "cities": [
+            "varna",
+            "novi-sad",
+            "nis",
+            "zadar",
+            "szczecin",
+            "rijeka",
+            "osijek"
+        ]
+    },
+    {
+        "cluster_id": 46,
+        "cities": [
+            "madurai",
+            "asuncion",
+            "guwahati"
+        ]
+    },
+    {
+        "cluster_id": 47,
+        "cities": [
+            "yerevan"
+        ]
+    },
+    {
+        "cluster_id": 48,
+        "cities": [
+            "faro",
+            "guelph",
+            "hagen"
+        ]
+    },
+    {
+        "cluster_id": 49,
+        "cities": [
+            "bangkok"
+        ]
+    },
+    {
+        "cluster_id": 50,
+        "cities": [
+            "dubai",
+            "sharjah"
+        ]
+    },
+    {
+        "cluster_id": 51,
+        "cities": [
+            "sydney",
+            "regina",
+            "saskatoon"
+        ]
+    },
+    {
+        "cluster_id": 52,
+        "cities": [
+            "hamburg",
+            "jena",
+            "graz",
+            "karlsruhe"
+        ]
+    },
+    {
+        "cluster_id": 53,
+        "cities": [
+            "portimao",
+            "porto",
+            "braga",
+            "coimbra"
+        ]
+    },
+    {
+        "cluster_id": 54,
+        "cities": [
+            "columbus",
+            "indianapolis",
+            "fargo",
+            "des-moines",
+            "provo"
+        ]
+    },
+    {
+        "cluster_id": 55,
+        "cities": [
+            "lisbon"
+        ]
+    },
+    {
+        "cluster_id": 56,
+        "cities": [
+            "bogota",
+            "belo-horizonte",
+            "campinas",
+            "uberlandia"
+        ]
+    },
+    {
+        "cluster_id": 57,
+        "cities": [
+            "huainan",
+            "jiamusi",
+            "jiaxing"
+        ]
+    },
+    {
+        "cluster_id": 58,
+        "cities": [
+            "ahmedabad",
+            "jabalpur",
+            "vadodara",
+            "chandigarh",
+            "thrissur",
+            "coimbatore"
+        ]
+    },
+    {
+        "cluster_id": 59,
+        "cities": [
+            "doha"
+        ]
+    },
+    {
+        "cluster_id": 60,
+        "cities": [
+            "colombo"
+        ]
+    },
+    {
+        "cluster_id": 61,
+        "cities": [
+            "rzeszow"
+        ]
+    },
+    {
+        "cluster_id": 62,
+        "cities": [
+            "shanghai"
+        ]
+    },
+    {
+        "cluster_id": 63,
+        "cities": [
+            "ko-samui"
+        ]
+    },
+    {
+        "cluster_id": 64,
+        "cities": [
+            "almaty",
+            "giza",
+            "amman"
+        ]
+    },
+    {
+        "cluster_id": 65,
+        "cities": [
+            "monterrey",
+            "santiago"
+        ]
+    },
+    {
+        "cluster_id": 66,
+        "cities": [
+            "rosario"
+        ]
+    },
+    {
+        "cluster_id": 67,
+        "cities": [
+            "medellin",
+            "florianopolis",
+            "porto-alegre"
+        ]
+    },
+    {
+        "cluster_id": 68,
+        "cities": [
             "buenos-aires",
+            "cordoba",
+            "mar-del-plata"
+        ]
+    },
+    {
+        "cluster_id": 69,
+        "cities": [
+            "tartu",
+            "madison",
+            "leicester",
+            "grand-rapids",
+            "rochester",
+            "bloomington",
+            "oakland"
+        ]
+    },
+    {
+        "cluster_id": 70,
+        "cities": [
+            "timisoara",
+            "warsaw",
+            "tbilisi",
+            "gdansk",
+            "dubrovnik",
+            "athens",
+            "vilnius"
+        ]
+    },
+    {
+        "cluster_id": 71,
+        "cities": [
             "penang"
+        ]
+    },
+    {
+        "cluster_id": 72,
+        "cities": [
+            "adana",
+            "izmir",
+            "ankara",
+            "konya"
+        ]
+    },
+    {
+        "cluster_id": 73,
+        "cities": [
+            "marrakesh",
+            "da-lat",
+            "fes",
+            "rabat",
+            "tunis",
+            "casablanca",
+            "mui-ne"
+        ]
+    },
+    {
+        "cluster_id": 74,
+        "cities": [
+            "tashkent"
+        ]
+    },
+    {
+        "cluster_id": 75,
+        "cities": [
+            "kuala-lumpur",
+            "jakarta",
+            "kota-kinabalu",
+            "kuching"
+        ]
+    },
+    {
+        "cluster_id": 76,
+        "cities": [
+            "manila"
+        ]
+    },
+    {
+        "cluster_id": 77,
+        "cities": [
+            "johannesburg",
+            "durban"
+        ]
+    },
+    {
+        "cluster_id": 78,
+        "cities": [
+            "cartagena",
+            "belem"
+        ]
+    },
+    {
+        "cluster_id": 79,
+        "cities": [
+            "san-francisco",
+            "chicago",
+            "dublin"
         ]
     }
 ]

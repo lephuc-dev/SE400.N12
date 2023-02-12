@@ -1,0 +1,2102 @@
+[
+    {
+        "city": "bangkok",
+        "cost_scaled": 0.1991094147582697,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.9142857142857143,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "buenos-aires",
+        "cost_scaled": 0.17048346055979643,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.6296296296296297
+    },
+    {
+        "city": "lisbon",
+        "cost_scaled": 0.34594995759117897,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.37142857142857144,
+        "humidity_scaled": 0.5925925925925926
+    },
+    {
+        "city": "chiang-mai",
+        "cost_scaled": 0.11323155216284989,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.19753086419753085
+    },
+    {
+        "city": "medellin",
+        "cost_scaled": 0.13273960983884647,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.6571428571428571,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "timisoara",
+        "cost_scaled": 0.14016115351993214,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.691358024691358
+    },
+    {
+        "city": "bengaluru",
+        "cost_scaled": 0.10570398642917728,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.33333333333333337
+    },
+    {
+        "city": "penang",
+        "cost_scaled": 0.0832273112807464,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.8765432098765432
+    },
+    {
+        "city": "kuala-lumpur",
+        "cost_scaled": 0.16740882103477522,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8285714285714285,
+        "humidity_scaled": 0.8765432098765432
+    },
+    {
+        "city": "portimao",
+        "cost_scaled": 0.20663698049194232,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.6172839506172839
+    },
+    {
+        "city": "cape-town",
+        "cost_scaled": 0.2871077184054283,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.691358024691358
+    },
+    {
+        "city": "porto",
+        "cost_scaled": 0.31255301102629346,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.39999999999999997,
+        "humidity_scaled": 0.41975308641975306
+    },
+    {
+        "city": "tallinn",
+        "cost_scaled": 0.24406276505513147,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.802469135802469
+    },
+    {
+        "city": "warsaw",
+        "cost_scaled": 0.24851569126378287,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.8271604938271605
+    },
+    {
+        "city": "kathmandu",
+        "cost_scaled": 0.09817642069550467,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.4814814814814815
+    },
+    {
+        "city": "ho-chi-minh-city",
+        "cost_scaled": 0.11863867684478371,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.9142857142857143,
+        "humidity_scaled": 0.6172839506172839
+    },
+    {
+        "city": "tbilisi",
+        "cost_scaled": 0.18426632739609838,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "berlin",
+        "cost_scaled": 0.3977947413061917,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.8271604938271605
+    },
+    {
+        "city": "brasov",
+        "cost_scaled": 0.18193384223918574,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.17142857142857143,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "atlanta",
+        "cost_scaled": 0.333863443596268,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.7407407407407407
+    },
+    {
+        "city": "nairobi",
+        "cost_scaled": 0.15871501272264632,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.345679012345679
+    },
+    {
+        "city": "rio-de-janeiro",
+        "cost_scaled": 0.22561492790500426,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.7999999999999999,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "beirut",
+        "cost_scaled": 0.0,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.34285714285714286,
+        "humidity_scaled": 0.4814814814814815
+    },
+    {
+        "city": "varna",
+        "cost_scaled": 0.15415606446140798,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.6419753086419753
+    },
+    {
+        "city": "san-antonio",
+        "cost_scaled": 0.30831212892281595,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "lima",
+        "cost_scaled": 0.12415182357930449,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.8271604938271605
+    },
+    {
+        "city": "delhi",
+        "cost_scaled": 0.11068702290076335,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.41975308641975306
+    },
+    {
+        "city": "sofia",
+        "cost_scaled": 0.19645886344359628,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.5555555555555555
+    },
+    {
+        "city": "manila",
+        "cost_scaled": 0.14917302798982188,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.7160493827160493
+    },
+    {
+        "city": "dresden",
+        "cost_scaled": 0.2948473282442748,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "gdansk",
+        "cost_scaled": 0.21681509754028838,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "guadalajara",
+        "cost_scaled": 0.15235368956743003,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6857142857142857,
+        "humidity_scaled": 0.2222222222222222
+    },
+    {
+        "city": "istanbul",
+        "cost_scaled": 0.20812128922815945,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.14285714285714285,
+        "humidity_scaled": 0.7407407407407407
+    },
+    {
+        "city": "zagreb",
+        "cost_scaled": 0.26039016115351993,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "seoul",
+        "cost_scaled": 0.2783078880407125,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.14285714285714285,
+        "humidity_scaled": 0.691358024691358
+    },
+    {
+        "city": "hyderabad",
+        "cost_scaled": 0.09754028837998305,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.0
+    },
+    {
+        "city": "cuenca",
+        "cost_scaled": 0.16825699745547074,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.6790123456790124
+    },
+    {
+        "city": "budapest",
+        "cost_scaled": 0.21617896522476676,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.5925925925925926
+    },
+    {
+        "city": "ploiesti",
+        "cost_scaled": 0.14355385920271416,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.6419753086419753
+    },
+    {
+        "city": "krakow",
+        "cost_scaled": 0.23950381679389315,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "constanta",
+        "cost_scaled": 0.1806615776081425,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.6790123456790124
+    },
+    {
+        "city": "munich",
+        "cost_scaled": 0.41868108566581846,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.6790123456790124
+    },
+    {
+        "city": "ljubljana",
+        "cost_scaled": 0.3438295165394402,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "perth",
+        "cost_scaled": 0.4027777777777778,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.5925925925925926
+    },
+    {
+        "city": "mallorca",
+        "cost_scaled": 0.28604749787955897,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.6419753086419753
+    },
+    {
+        "city": "phuket",
+        "cost_scaled": 0.2958015267175573,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.8271604938271605
+    },
+    {
+        "city": "antalya",
+        "cost_scaled": 0.19826123833757422,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.2857142857142857,
+        "humidity_scaled": 0.345679012345679
+    },
+    {
+        "city": "braga",
+        "cost_scaled": 0.1946564885496183,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.39999999999999997,
+        "humidity_scaled": 0.41975308641975306
+    },
+    {
+        "city": "poznan",
+        "cost_scaled": 0.19868532654792198,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.802469135802469
+    },
+    {
+        "city": "novi-sad",
+        "cost_scaled": 0.18628074639525022,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.5925925925925926
+    },
+    {
+        "city": "dallas",
+        "cost_scaled": 0.3742578456318914,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "quito",
+        "cost_scaled": 0.1458863443596268,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "jakarta",
+        "cost_scaled": 0.13592027141645463,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "cancun",
+        "cost_scaled": 0.23293044953350295,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.7999999999999999,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "nis",
+        "cost_scaled": 0.13040712468193386,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.5432098765432098
+    },
+    {
+        "city": "zadar",
+        "cost_scaled": 0.24151823579304493,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.4814814814814815
+    },
+    {
+        "city": "hanoi",
+        "cost_scaled": 0.09616200169635283,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.9506172839506172
+    },
+    {
+        "city": "cordoba",
+        "cost_scaled": 0.11938083121289228,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.9142857142857143,
+        "humidity_scaled": 0.5432098765432098
+    },
+    {
+        "city": "johannesburg",
+        "cost_scaled": 0.26494910941475824,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.9012345679012345
+    },
+    {
+        "city": "sao-paulo",
+        "cost_scaled": 0.2135284139100933,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.7999999999999999,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "phnom-penh",
+        "cost_scaled": 0.14652247667514842,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.6296296296296297
+    },
+    {
+        "city": "busan",
+        "cost_scaled": 0.255089058524173,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.8765432098765432
+    },
+    {
+        "city": "szczecin",
+        "cost_scaled": 0.18437234944868533,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "tampa",
+        "cost_scaled": 0.40468617472434265,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "minneapolis",
+        "cost_scaled": 0.37690839694656486,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "colombo",
+        "cost_scaled": 0.11821458863443596,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8285714285714285,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "salt-lake-city",
+        "cost_scaled": 0.32167090754877015,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.4814814814814815
+    },
+    {
+        "city": "brno",
+        "cost_scaled": 0.2575275657336726,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.7037037037037036
+    },
+    {
+        "city": "new-york-city",
+        "cost_scaled": 0.6387828668363019,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.6296296296296297
+    },
+    {
+        "city": "london",
+        "cost_scaled": 0.5524809160305344,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.7901234567901235
+    },
+    {
+        "city": "tucson",
+        "cost_scaled": 0.35411365564037317,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.09876543209876543
+    },
+    {
+        "city": "florianopolis",
+        "cost_scaled": 0.22116200169635286,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.8285714285714285,
+        "humidity_scaled": 0.8271604938271605
+    },
+    {
+        "city": "makati",
+        "cost_scaled": 0.18055555555555555,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.7160493827160493
+    },
+    {
+        "city": "marrakesh",
+        "cost_scaled": 0.2652671755725191,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.19753086419753085
+    },
+    {
+        "city": "toronto",
+        "cost_scaled": 0.4404156064461408,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.9135802469135802
+    },
+    {
+        "city": "yerevan",
+        "cost_scaled": 0.21511874469889739,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "guangzhou",
+        "cost_scaled": 0.15797285835453775,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.6857142857142857,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "barcelona",
+        "cost_scaled": 0.5069974554707379,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.6049382716049382
+    },
+    {
+        "city": "alanya",
+        "cost_scaled": 0.19794317217981341,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2857142857142857,
+        "humidity_scaled": 0.24691358024691357
+    },
+    {
+        "city": "stockholm",
+        "cost_scaled": 0.3880407124681934,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.6049382716049382
+    },
+    {
+        "city": "dubrovnik",
+        "cost_scaled": 0.2645250212044105,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.345679012345679
+    },
+    {
+        "city": "porto-alegre",
+        "cost_scaled": 0.14291772688719254,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.7407407407407407
+    },
+    {
+        "city": "bratislava",
+        "cost_scaled": 0.25296861747243427,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "sydney",
+        "cost_scaled": 0.5871501272264631,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "taipei",
+        "cost_scaled": 0.28997031382527566,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6,
+        "humidity_scaled": 0.9259259259259259
+    },
+    {
+        "city": "tashkent",
+        "cost_scaled": 0.13273960983884647,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.691358024691358
+    },
+    {
+        "city": "kota-kinabalu",
+        "cost_scaled": 0.1578668363019508,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.7160493827160493
+    },
+    {
+        "city": "noida",
+        "cost_scaled": 0.11164122137404581,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6857142857142857,
+        "humidity_scaled": 0.4691358024691358
+    },
+    {
+        "city": "aveiro",
+        "cost_scaled": 0.25657336726039015,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.39999999999999997,
+        "humidity_scaled": 0.4444444444444444
+    },
+    {
+        "city": "jaipur",
+        "cost_scaled": 0.08693808312128923,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.19753086419753085
+    },
+    {
+        "city": "melbourne",
+        "cost_scaled": 0.5337150127226463,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.7037037037037036
+    },
+    {
+        "city": "singapore",
+        "cost_scaled": 0.55470737913486,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8285714285714285,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "prague",
+        "cost_scaled": 0.3457379134860051,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.6790123456790124
+    },
+    {
+        "city": "pittsburgh",
+        "cost_scaled": 0.3285623409669211,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "auckland",
+        "cost_scaled": 0.5097540288379983,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6285714285714286,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "merida",
+        "cost_scaled": 0.15415606446140798,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.7160493827160493
+    },
+    {
+        "city": "winnipeg",
+        "cost_scaled": 0.3112807463952502,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "lublin",
+        "cost_scaled": 0.16030534351145037,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "pretoria",
+        "cost_scaled": 0.22254028837998302,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.6571428571428571,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "athens",
+        "cost_scaled": 0.38729855810008484,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.6790123456790124
+    },
+    {
+        "city": "faro",
+        "cost_scaled": 0.19168787107718405,
+        "fun_scaled": 0.0,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "kuching",
+        "cost_scaled": 0.16603053435114504,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.9259259259259259
+    },
+    {
+        "city": "louisville",
+        "cost_scaled": 0.29993638676844786,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.7037037037037036
+    },
+    {
+        "city": "patna",
+        "cost_scaled": 0.08736217133163698,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.6857142857142857,
+        "humidity_scaled": 0.5308641975308642
+    },
+    {
+        "city": "riga",
+        "cost_scaled": 0.24650127226463103,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "columbus",
+        "cost_scaled": 0.31308312128922816,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.6790123456790124
+    },
+    {
+        "city": "adana",
+        "cost_scaled": 0.13761662425784563,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.3086419753086419
+    },
+    {
+        "city": "rijeka",
+        "cost_scaled": 0.17949533502968618,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.17142857142857143,
+        "humidity_scaled": 0.45679012345679004
+    },
+    {
+        "city": "dubai",
+        "cost_scaled": 0.3736217133163698,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.5714285714285714,
+        "humidity_scaled": 0.6049382716049382
+    },
+    {
+        "city": "coimbra",
+        "cost_scaled": 0.2873197625106022,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.39999999999999997,
+        "humidity_scaled": 0.4814814814814815
+    },
+    {
+        "city": "gainesville",
+        "cost_scaled": 0.29378710771840544,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "lucknow",
+        "cost_scaled": 0.06191687871077184,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.3950617283950617
+    },
+    {
+        "city": "groningen",
+        "cost_scaled": 0.44009754028838,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "pattaya",
+        "cost_scaled": 0.15108142493638677,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "lagos",
+        "cost_scaled": 0.1759966072943172,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.9142857142857143,
+        "humidity_scaled": 0.802469135802469
+    },
+    {
+        "city": "honolulu",
+        "cost_scaled": 0.9999999999999999,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.7407407407407407
+    },
+    {
+        "city": "christchurch",
+        "cost_scaled": 0.38189143341815096,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.7160493827160493
+    },
+    {
+        "city": "buffalo",
+        "cost_scaled": 0.2984520780322307,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "vancouver",
+        "cost_scaled": 0.4479431721798134,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "los-angeles",
+        "cost_scaled": 0.4922603901611535,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.09876543209876543
+    },
+    {
+        "city": "amsterdam",
+        "cost_scaled": 0.6947625106022053,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.8271604938271605
+    },
+    {
+        "city": "hamburg",
+        "cost_scaled": 0.4074427480916031,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.17142857142857143,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "almaty",
+        "cost_scaled": 0.18893129770992367,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "cincinnati",
+        "cost_scaled": 0.30810008481764206,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "izmir",
+        "cost_scaled": 0.13008905852417302,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.4691358024691358
+    },
+    {
+        "city": "surabaya",
+        "cost_scaled": 0.08471162001696353,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.9012345679012345
+    },
+    {
+        "city": "ahmedabad",
+        "cost_scaled": 0.12097116200169636,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.13580246913580246
+    },
+    {
+        "city": "san-diego",
+        "cost_scaled": 0.5636132315521628,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6285714285714286,
+        "humidity_scaled": 0.2716049382716049
+    },
+    {
+        "city": "madurai",
+        "cost_scaled": 0.09860050890585242,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.5061728395061728
+    },
+    {
+        "city": "monterrey",
+        "cost_scaled": 0.23356658184902462,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6,
+        "humidity_scaled": 0.41975308641975306
+    },
+    {
+        "city": "helsinki",
+        "cost_scaled": 0.43702290076335876,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "wellington",
+        "cost_scaled": 0.4941687871077184,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.5714285714285714,
+        "humidity_scaled": 0.6172839506172839
+    },
+    {
+        "city": "indianapolis",
+        "cost_scaled": 0.3520992366412214,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.37142857142857144,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "santiago",
+        "cost_scaled": 0.20642493638676845,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.12345679012345678
+    },
+    {
+        "city": "kozhikode",
+        "cost_scaled": 0.10623409669211195,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "split",
+        "cost_scaled": 0.333863443596268,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2857142857142857,
+        "humidity_scaled": 0.33333333333333337
+    },
+    {
+        "city": "johor-bahru",
+        "cost_scaled": 0.11312553011026294,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "burgas",
+        "cost_scaled": 0.22974978795589485,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.691358024691358
+    },
+    {
+        "city": "raleigh",
+        "cost_scaled": 0.3284563189143342,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6285714285714286,
+        "humidity_scaled": 0.6419753086419753
+    },
+    {
+        "city": "cartagena",
+        "cost_scaled": 0.14906700593723496,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.7901234567901235
+    },
+    {
+        "city": "las-vegas",
+        "cost_scaled": 0.5654156064461408,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.37142857142857144,
+        "humidity_scaled": 0.06172839506172839
+    },
+    {
+        "city": "jabalpur",
+        "cost_scaled": 0.10793044953350298,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7999999999999999,
+        "humidity_scaled": 0.14814814814814814
+    },
+    {
+        "city": "vilnius",
+        "cost_scaled": 0.31636980491942324,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "paphos",
+        "cost_scaled": 0.32135284139100934,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.3827160493827161
+    },
+    {
+        "city": "da-lat",
+        "cost_scaled": 0.08821034775233248,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6857142857142857,
+        "humidity_scaled": 0.5925925925925926
+    },
+    {
+        "city": "katowice",
+        "cost_scaled": 0.21978371501272265,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.691358024691358
+    },
+    {
+        "city": "washington",
+        "cost_scaled": 0.5266115351993215,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.5142857142857142,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "calgary",
+        "cost_scaled": 0.3416030534351145,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.7037037037037036
+    },
+    {
+        "city": "bogota",
+        "cost_scaled": 0.11482188295165394,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.7037037037037036
+    },
+    {
+        "city": "tartu",
+        "cost_scaled": 0.26664546225614927,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "denpasar",
+        "cost_scaled": 0.0640373197625106,
+        "fun_scaled": 0.0,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "tampere",
+        "cost_scaled": 0.4310856658184902,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "windsor",
+        "cost_scaled": 0.33566581849024596,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2857142857142857,
+        "humidity_scaled": 0.888888888888889
+    },
+    {
+        "city": "richmond",
+        "cost_scaled": 0.31340118744698897,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.6,
+        "humidity_scaled": 0.6296296296296297
+    },
+    {
+        "city": "naha",
+        "cost_scaled": 0.291136556403732,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.6,
+        "humidity_scaled": 0.9012345679012345
+    },
+    {
+        "city": "aachen",
+        "cost_scaled": 0.30916030534351147,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "daegu",
+        "cost_scaled": 0.19158184902459713,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "portland",
+        "cost_scaled": 0.4591815097540288,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.37142857142857144,
+        "humidity_scaled": 0.6049382716049382
+    },
+    {
+        "city": "regina",
+        "cost_scaled": 0.3142493638676845,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.8765432098765432
+    },
+    {
+        "city": "ankara",
+        "cost_scaled": 0.11916878710771842,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.6296296296296297
+    },
+    {
+        "city": "kitchener",
+        "cost_scaled": 0.3565521628498728,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.9753086419753086
+    },
+    {
+        "city": "nagpur",
+        "cost_scaled": 0.14164546225614927,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.06172839506172839
+    },
+    {
+        "city": "ludhiana",
+        "cost_scaled": 0.07103477523324851,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6285714285714286,
+        "humidity_scaled": 0.5432098765432098
+    },
+    {
+        "city": "asuncion",
+        "cost_scaled": 0.12489397794741305,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 1.0,
+        "humidity_scaled": 0.4814814814814815
+    },
+    {
+        "city": "houston",
+        "cost_scaled": 0.3469041560644614,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.5714285714285714,
+        "humidity_scaled": 0.6296296296296297
+    },
+    {
+        "city": "madison",
+        "cost_scaled": 0.3285623409669211,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "ipoh",
+        "cost_scaled": 0.1414334181509754,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.9506172839506172
+    },
+    {
+        "city": "hermosillo",
+        "cost_scaled": 0.1433418150975403,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.012345679012345678
+    },
+    {
+        "city": "knoxville",
+        "cost_scaled": 0.3046013570822731,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.5142857142857142,
+        "humidity_scaled": 0.7407407407407407
+    },
+    {
+        "city": "syracuse",
+        "cost_scaled": 0.28891009329940626,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.9012345679012345
+    },
+    {
+        "city": "san-francisco",
+        "cost_scaled": 0.6622137404580153,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.6790123456790124
+    },
+    {
+        "city": "alicante",
+        "cost_scaled": 0.3878286683630195,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.34285714285714286,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "wichita",
+        "cost_scaled": 0.2684478371501272,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.6419753086419753
+    },
+    {
+        "city": "iasi",
+        "cost_scaled": 0.17610262934690415,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.7037037037037036
+    },
+    {
+        "city": "chico",
+        "cost_scaled": 0.2998303647158609,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "vadodara",
+        "cost_scaled": 0.19094571670907548,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.012345679012345678
+    },
+    {
+        "city": "boston",
+        "cost_scaled": 0.5917090754877015,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "semarang",
+        "cost_scaled": 0.0871501272264631,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8285714285714285,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "osijek",
+        "cost_scaled": 0.20716709075487702,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "chandigarh",
+        "cost_scaled": 0.1344359626802375,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6571428571428571,
+        "humidity_scaled": 0.41975308641975306
+    },
+    {
+        "city": "thrissur",
+        "cost_scaled": 0.07994062765055132,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.9428571428571428,
+        "humidity_scaled": 0.5555555555555555
+    },
+    {
+        "city": "panama-city",
+        "cost_scaled": 0.2548770144189991,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.9142857142857143,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "yogyakarta",
+        "cost_scaled": 0.06933842239185752,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8857142857142857,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "ko-samui",
+        "cost_scaled": 0.2263570822731128,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.9506172839506172
+    },
+    {
+        "city": "guwahati",
+        "cost_scaled": 0.10146310432569974,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6571428571428571,
+        "humidity_scaled": 0.5802469135802469
+    },
+    {
+        "city": "vijayawada",
+        "cost_scaled": 0.0969041560644614,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.9142857142857143,
+        "humidity_scaled": 0.6049382716049382
+    },
+    {
+        "city": "kochi",
+        "cost_scaled": 0.08248515691263783,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.7901234567901235
+    },
+    {
+        "city": "surakarta",
+        "cost_scaled": 0.07771416454622562,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.9012345679012345
+    },
+    {
+        "city": "chisinau",
+        "cost_scaled": 0.17896522476675147,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.6172839506172839
+    },
+    {
+        "city": "huizhou",
+        "cost_scaled": 0.10750636132315522,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.7901234567901235
+    },
+    {
+        "city": "saskatoon",
+        "cost_scaled": 0.3334393553859203,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.14285714285714285,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "santo-domingo",
+        "cost_scaled": 0.17133163698049195,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.7999999999999999,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "leiden",
+        "cost_scaled": 0.5499363867684478,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "nashville",
+        "cost_scaled": 0.47413061916878707,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.6419753086419753
+    },
+    {
+        "city": "montpellier",
+        "cost_scaled": 0.3280322307039864,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.5802469135802469
+    },
+    {
+        "city": "victoria",
+        "cost_scaled": 0.44582273112807463,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "giza",
+        "cost_scaled": 0.10072094995759118,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.5142857142857142,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "seattle",
+        "cost_scaled": 0.503392705682782,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.34285714285714286,
+        "humidity_scaled": 0.7037037037037036
+    },
+    {
+        "city": "fargo",
+        "cost_scaled": 0.3162637828668363,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "fes",
+        "cost_scaled": 0.14567430025445294,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.45714285714285713,
+        "humidity_scaled": 0.4444444444444444
+    },
+    {
+        "city": "asheville",
+        "cost_scaled": 0.36291348600508905,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "kosice",
+        "cost_scaled": 0.2355810008481764,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "bedford",
+        "cost_scaled": 0.34488973706530957,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "lahore",
+        "cost_scaled": 0.07061068702290077,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6,
+        "humidity_scaled": 0.5308641975308642
+    },
+    {
+        "city": "boise",
+        "cost_scaled": 0.32061068702290074,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.17142857142857143,
+        "humidity_scaled": 0.345679012345679
+    },
+    {
+        "city": "leicester",
+        "cost_scaled": 0.37213740458015265,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "goiania",
+        "cost_scaled": 0.1484308736217133,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "new-orleans",
+        "cost_scaled": 0.5604325699745547,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "grand-rapids",
+        "cost_scaled": 0.3571882951653944,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.9382716049382714
+    },
+    {
+        "city": "rosario",
+        "cost_scaled": 0.1876590330788804,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.9714285714285714,
+        "humidity_scaled": 0.4320987654320988
+    },
+    {
+        "city": "rochester",
+        "cost_scaled": 0.3379983036471586,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.9259259259259259
+    },
+    {
+        "city": "denver",
+        "cost_scaled": 0.48240033927056825,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.2962962962962963
+    },
+    {
+        "city": "kolkata",
+        "cost_scaled": 0.09202714164546226,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7999999999999999,
+        "humidity_scaled": 0.345679012345679
+    },
+    {
+        "city": "gaziantep",
+        "cost_scaled": 0.1339058524173028,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.5185185185185185
+    },
+    {
+        "city": "oklahoma-city",
+        "cost_scaled": 0.3199745547073791,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "edinburgh",
+        "cost_scaled": 0.5614927905004241,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2857142857142857,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "daejeon",
+        "cost_scaled": 0.20515267175572519,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "miami",
+        "cost_scaled": 0.7604961832061069,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.7901234567901235
+    },
+    {
+        "city": "cairo",
+        "cost_scaled": 0.07198897370653096,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.5308641975308642
+    },
+    {
+        "city": "aberdeen",
+        "cost_scaled": 0.4906700593723494,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "durban",
+        "cost_scaled": 0.21564885496183206,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "jacksonville",
+        "cost_scaled": 0.38210347752332485,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "kuta",
+        "cost_scaled": 0.10665818490245971,
+        "fun_scaled": 0.0,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.802469135802469
+    },
+    {
+        "city": "belem",
+        "cost_scaled": 0.16793893129770993,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.8285714285714285,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "chicago",
+        "cost_scaled": 0.4977735368956743,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.14285714285714285,
+        "humidity_scaled": 0.9999999999999999
+    },
+    {
+        "city": "nice",
+        "cost_scaled": 0.4208015267175573,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.2857142857142857,
+        "humidity_scaled": 0.18518518518518517
+    },
+    {
+        "city": "kaohsiung",
+        "cost_scaled": 0.30417726887192537,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "huainan",
+        "cost_scaled": 0.13931297709923665,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "jiamusi",
+        "cost_scaled": 0.12436386768447838,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.34285714285714286,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "mumbai",
+        "cost_scaled": 0.3243214588634436,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8285714285714285,
+        "humidity_scaled": 0.40740740740740733
+    },
+    {
+        "city": "guelph",
+        "cost_scaled": 0.34478371501272265,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.9753086419753086
+    },
+    {
+        "city": "valencia",
+        "cost_scaled": 0.44974554707379133,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "rabat",
+        "cost_scaled": 0.18246395250212044,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.5142857142857142,
+        "humidity_scaled": 0.5555555555555555
+    },
+    {
+        "city": "belo-horizonte",
+        "cost_scaled": 0.12393977947413062,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "tunis",
+        "cost_scaled": 0.1784351145038168,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "riverside",
+        "cost_scaled": 0.38316369804919426,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.6571428571428571,
+        "humidity_scaled": 0.09876543209876543
+    },
+    {
+        "city": "providence",
+        "cost_scaled": 0.371607294317218,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "jiaxing",
+        "cost_scaled": 0.13772264631043257,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.8765432098765432
+    },
+    {
+        "city": "albuquerque",
+        "cost_scaled": 0.3507209499575912,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.2716049382716049
+    },
+    {
+        "city": "antananarivo",
+        "cost_scaled": 0.12733248515691264,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.6571428571428571,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "jena",
+        "cost_scaled": 0.3018447837150127,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.7283950617283951
+    },
+    {
+        "city": "coimbatore",
+        "cost_scaled": 0.09594995759117897,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.37037037037037035
+    },
+    {
+        "city": "amman",
+        "cost_scaled": 0.21904156064461408,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.6419753086419753
+    },
+    {
+        "city": "aguascalientes",
+        "cost_scaled": 0.1756785411365564,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.6,
+        "humidity_scaled": 0.1728395061728395
+    },
+    {
+        "city": "campinas",
+        "cost_scaled": 0.15871501272264632,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "bloomington",
+        "cost_scaled": 0.35835453774385073,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.37142857142857144,
+        "humidity_scaled": 0.8271604938271605
+    },
+    {
+        "city": "shantou",
+        "cost_scaled": 0.09001272264631044,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.6,
+        "humidity_scaled": 0.9135802469135802
+    },
+    {
+        "city": "reykjavik",
+        "cost_scaled": 0.5778201865988125,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.691358024691358
+    },
+    {
+        "city": "jiangmen",
+        "cost_scaled": 0.18755301102629346,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.6857142857142857,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "zhanjiang",
+        "cost_scaled": 0.11460983884648007,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.6571428571428571,
+        "humidity_scaled": 0.9506172839506172
+    },
+    {
+        "city": "ashland",
+        "cost_scaled": 0.3432994062765055,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "jinan",
+        "cost_scaled": 0.11630619168787107,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.2857142857142857,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "montreal",
+        "cost_scaled": 0.4100932994062765,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.9135802469135802
+    },
+    {
+        "city": "rotterdam",
+        "cost_scaled": 0.5484520780322307,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "dublin",
+        "cost_scaled": 0.6863867684478372,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.3142857142857143,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "fresno",
+        "cost_scaled": 0.3455258693808312,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.7160493827160493
+    },
+    {
+        "city": "oslo",
+        "cost_scaled": 0.49554707379134855,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.6543209876543209
+    },
+    {
+        "city": "colorado-springs",
+        "cost_scaled": 0.35920271416454624,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.4814814814814815
+    },
+    {
+        "city": "huntsville",
+        "cost_scaled": 0.34446564885496184,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.4857142857142857,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "doha",
+        "cost_scaled": 0.36757845631891434,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.4691358024691358
+    },
+    {
+        "city": "dongguan",
+        "cost_scaled": 0.17546649703138253,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.7428571428571429,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "mar-del-plata",
+        "cost_scaled": 0.21639100932994063,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.7142857142857143,
+        "humidity_scaled": 0.8271604938271605
+    },
+    {
+        "city": "northampton",
+        "cost_scaled": 0.3370441051738762,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "suwon",
+        "cost_scaled": 0.2365351993214589,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.14285714285714285,
+        "humidity_scaled": 0.7037037037037036
+    },
+    {
+        "city": "tokyo",
+        "cost_scaled": 0.5061492790500424,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.7901234567901235
+    },
+    {
+        "city": "nottingham",
+        "cost_scaled": 0.393871925360475,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.8641975308641975
+    },
+    {
+        "city": "graz",
+        "cost_scaled": 0.34011874469889736,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.6172839506172839
+    },
+    {
+        "city": "des-moines",
+        "cost_scaled": 0.3828456318914334,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.802469135802469
+    },
+    {
+        "city": "karlsruhe",
+        "cost_scaled": 0.3102205258693808,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.14285714285714285,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "hagen",
+        "cost_scaled": 0.3003604749787956,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.17142857142857143,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "casablanca",
+        "cost_scaled": 0.20727311280746397,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.5142857142857142,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "nanning",
+        "cost_scaled": 0.16783290924512298,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.5428571428571428,
+        "humidity_scaled": 0.9999999999999999
+    },
+    {
+        "city": "uberlandia",
+        "cost_scaled": 0.12627226463104327,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.7714285714285714,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "sharjah",
+        "cost_scaled": 0.2829728583545377,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.6,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "chania",
+        "cost_scaled": 0.37150127226463103,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.2857142857142857,
+        "humidity_scaled": 0.5679012345679012
+    },
+    {
+        "city": "taichung",
+        "cost_scaled": 0.18702290076335878,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.6857142857142857,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "dongying",
+        "cost_scaled": 0.1255301102629347,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.6049382716049382
+    },
+    {
+        "city": "quanzhou",
+        "cost_scaled": 0.14016115351993214,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.5142857142857142,
+        "humidity_scaled": 0.9012345679012345
+    },
+    {
+        "city": "oshawa",
+        "cost_scaled": 0.4025657336726039,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.9876543209876544
+    },
+    {
+        "city": "charlotte",
+        "cost_scaled": 0.40966921119592875,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.5714285714285714,
+        "humidity_scaled": 0.7407407407407407
+    },
+    {
+        "city": "manchester",
+        "cost_scaled": 0.4429601357082273,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "memphis",
+        "cost_scaled": 0.3564461407972858,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.34285714285714286,
+        "humidity_scaled": 0.7654320987654321
+    },
+    {
+        "city": "boulder",
+        "cost_scaled": 0.42726887192536045,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.2716049382716049
+    },
+    {
+        "city": "jyvaskyla",
+        "cost_scaled": 0.3488125530110263,
+        "fun_scaled": 0.0,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.7901234567901235
+    },
+    {
+        "city": "bremen",
+        "cost_scaled": 0.3196564885496183,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.14285714285714285,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "oakland",
+        "cost_scaled": 0.4080788804071247,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.42857142857142855,
+        "humidity_scaled": 0.6296296296296297
+    },
+    {
+        "city": "provo",
+        "cost_scaled": 0.3878286683630195,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.0,
+        "humidity_scaled": 0.5061728395061728
+    },
+    {
+        "city": "rzeszow",
+        "cost_scaled": 0.21034775233248515,
+        "fun_scaled": 0.0,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.7530864197530863
+    },
+    {
+        "city": "oulu",
+        "cost_scaled": 0.3383163698049194,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.05714285714285714,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "luton",
+        "cost_scaled": 0.42377014418999154,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.19999999999999998,
+        "humidity_scaled": 0.8518518518518517
+    },
+    {
+        "city": "karachi",
+        "cost_scaled": 0.09287531806615776,
+        "fun_scaled": 0.0,
+        "temperature_scaled": 0.6857142857142857,
+        "humidity_scaled": 0.8148148148148148
+    },
+    {
+        "city": "klaipeda",
+        "cost_scaled": 0.22540288379983037,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.08571428571428572,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "baton-rouge",
+        "cost_scaled": 0.3366200169635284,
+        "fun_scaled": 0.0,
+        "temperature_scaled": 0.5142857142857142,
+        "humidity_scaled": 0.7160493827160493
+    },
+    {
+        "city": "stuttgart",
+        "cost_scaled": 0.40383799830364714,
+        "fun_scaled": 0.75,
+        "temperature_scaled": 0.11428571428571428,
+        "humidity_scaled": 0.691358024691358
+    },
+    {
+        "city": "konya",
+        "cost_scaled": 0.13814673452078033,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.17142857142857143,
+        "humidity_scaled": 0.7407407407407407
+    },
+    {
+        "city": "madrid",
+        "cost_scaled": 0.4590754877014419,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.5432098765432098
+    },
+    {
+        "city": "gwangju",
+        "cost_scaled": 0.2587998303647159,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.22857142857142856,
+        "humidity_scaled": 0.7777777777777778
+    },
+    {
+        "city": "jilin",
+        "cost_scaled": 0.15860899067005937,
+        "fun_scaled": 0.25,
+        "temperature_scaled": 0.02857142857142857,
+        "humidity_scaled": 0.6666666666666666
+    },
+    {
+        "city": "shanghai",
+        "cost_scaled": 0.34011874469889736,
+        "fun_scaled": 1.0,
+        "temperature_scaled": 0.2571428571428571,
+        "humidity_scaled": 0.839506172839506
+    },
+    {
+        "city": "mui-ne",
+        "cost_scaled": 0.07283715012722647,
+        "fun_scaled": 0.5,
+        "temperature_scaled": 0.8571428571428571,
+        "humidity_scaled": 0.7777777777777778
+    }
+]

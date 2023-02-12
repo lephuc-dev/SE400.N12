@@ -1,43 +1,31 @@
 Analysis for phuket city:
 phuket's cluster contains the following cities:
-cape-town
+bangkok
 phuket
-singapore
-jacksonville
+kota-kinabalu
 
 Analysis for london city:
 london's cluster contains the following cities:
-berlin
 london
-hamburg
-kitchener
-leicester
 tokyo
-shanghai
 
 Analysis for shanghai city:
 shanghai's cluster contains the following cities:
 berlin
-london
 hamburg
 kitchener
 leicester
-tokyo
 shanghai
 
 Analysis for bangkok city:
 bangkok's cluster contains the following cities:
 bangkok
-buenos-aires
-ho-chi-minh-city
-jakarta
+phuket
 kota-kinabalu
-thrissur
 
 Analysis for dubai city:
 dubai's cluster contains the following cities:
-perth
-tampa
+san-antonio
 auckland
 dubai
 wellington
@@ -53,6 +41,5 @@ florianopolis
 makati
 porto-alegre
 cartagena
-naha
 santo-domingo
 

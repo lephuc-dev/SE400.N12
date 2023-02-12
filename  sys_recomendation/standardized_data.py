@@ -1,8 +1,15 @@
-import cloudscraper
 import json
-from bs4 import BeautifulSoup
-from utils.criteria import selected_set_3 as selected_set
-from utils import functions
+
+from utils.criteria import selected_set_2 as selected_set
+
+if len(selected_set) == 26:
+    output_file_path = './files/analyze-data.json'
+elif len(selected_set) == 5:
+    output_file_path = './files/set-1.json'
+elif len(selected_set) == 4:
+    output_file_path = './files/set-2.json'
+else:
+    output_file_path = './files/set-3.json'
 
 set_data=[]
 
@@ -18,7 +25,8 @@ for item in data:
     for atrr in selected_set:
         temp[atrr]=item["fields"][atrr]
 
-    set_data.append({'model': 'app.city', 'pk': city_id, 'fields': temp})
+    set_data.append({'nr': city_id, 'fields': temp})
+    city_id+=1
 
-with open("./files/set-3.json", 'w') as outfile:
+with open(output_file_path, 'w') as outfile:
         json.dump(set_data, outfile)

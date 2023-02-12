@@ -6,7 +6,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
-from utils.criteria import scores as city_features
+from utils.criteria import selected_set_3 as city_features
 from utils.functions import read_data_from_json
 
 
@@ -174,8 +174,7 @@ clusters_list = export_clusters(
 
 # print(city_in_cluster)
 
-# Looking at some cities' cluster to see if the other cities in their
-# corresponding cluster are similar to them (checking how accurate the clustering is)
+# check cities in 1 cluster
 cities_to_explore = ['phuket', 'london', 'shanghai', 'bangkok', 'dubai', 'sao-paulo']
 export_given_cities_clusters(
     output_file_path=output_explored_cities_file_path,

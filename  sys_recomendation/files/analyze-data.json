@@ -9566,5 +9566,37 @@
             "lgbt_friendly": 2,
             "startup_score": 3
         }
+    },
+    {
+        "nr": 300,
+        "fields": {
+            "city": "mui-ne",
+            "total_score": 2.88,
+            "quality_of_life_score": 3,
+            "family_score": 2,
+            "cost": 961.0,
+            "internet": 2,
+            "fun": 3,
+            "temperature": 30,
+            "humidity": 81,
+            "air_quality": 4,
+            "safety": 4,
+            "education_level": 2,
+            "english_speaking": 2,
+            "walkability": 3,
+            "peace": 3,
+            "traffic_safety": 2,
+            "hospitals": 3,
+            "happiness": 2,
+            "nightlife": 2,
+            "free_wifi_in_city": 3,
+            "places_to_work_from": 5,
+            "ac_or_heating": 3,
+            "friendly_to_foreigners": 4,
+            "freedom_of_speech": 1,
+            "female_friendly": 3,
+            "lgbt_friendly": 2,
+            "startup_score": 2
+        }
     }
 ]
