@@ -8,11 +8,6 @@ from utils.criteria import selected_set_3 as city_features
 def read_scaled_data_from_json(file_path, features_names):
     scaled_features_names = [name + '_scaled' for name in features_names]
     df = pd.DataFrame(columns=scaled_features_names)
-
-    print("======================================")
-    print(df)
-    print("======================================")
-
     line_index_in_dataframe = {}
 
     with open(file_path) as input_file:

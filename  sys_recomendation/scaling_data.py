@@ -10,6 +10,8 @@ df, city_names, line_index_in_df = functions.read_data_from_json(
     city_features=city_features
 )
 
+output_scaled_data_file_path="./scale_data/scaled-data-test-3.json"
+
 input_data = df.values
 input_data_scaled = MinMaxScaler().fit_transform(input_data)
 scaled_data = []
