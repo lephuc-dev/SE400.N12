@@ -1,6 +1,6 @@
 selenium
 bs4
-webdriver_manager
+webdriver-manager
 time
 cloudscraper
 scikit-learn

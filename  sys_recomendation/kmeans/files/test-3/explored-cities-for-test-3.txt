@@ -1,0 +1,69 @@
+Analysis for phuket city:
+phuket's cluster contains the following cities:
+kuala-lumpur
+rio-de-janeiro
+phuket
+cancun
+sao-paulo
+florianopolis
+pattaya
+santo-domingo
+belem
+
+Analysis for london city:
+london's cluster contains the following cities:
+london
+leiden
+edinburgh
+aberdeen
+rotterdam
+
+Analysis for shanghai city:
+shanghai's cluster contains the following cities:
+busan
+buffalo
+windsor
+daegu
+regina
+syracuse
+rochester
+northampton
+shanghai
+
+Analysis for bangkok city:
+bangkok's cluster contains the following cities:
+bangkok
+manila
+jakarta
+makati
+porto-alegre
+kota-kinabalu
+merida
+lagos
+kozhikode
+cartagena
+panama-city
+
+Analysis for dubai city:
+dubai's cluster contains the following cities:
+san-antonio
+pittsburgh
+dubai
+raleigh
+richmond
+houston
+doha
+sharjah
+
+Analysis for sao-paulo city:
+sao-paulo's cluster contains the following cities:
+kuala-lumpur
+rio-de-janeiro
+phuket
+cancun
+sao-paulo
+florianopolis
+pattaya
+santo-domingo
+belem
+

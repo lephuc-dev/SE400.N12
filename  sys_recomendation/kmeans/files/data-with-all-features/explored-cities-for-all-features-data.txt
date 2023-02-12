@@ -1,0 +1,62 @@
+Analysis for phuket city:
+phuket's cluster contains the following cities:
+mallorca
+phuket
+cordoba
+barcelona
+naha
+alicante
+montpellier
+mar-del-plata
+tokyo
+bremen
+madrid
+
+Analysis for london city:
+london's cluster contains the following cities:
+munich
+london
+stockholm
+prague
+hamburg
+leicester
+edinburgh
+valencia
+montreal
+oslo
+stuttgart
+
+Analysis for shanghai city:
+shanghai's cluster contains the following cities:
+chiang-mai
+ho-chi-minh-city
+beirut
+antalya
+marrakesh
+guangzhou
+shanghai
+
+Analysis for bangkok city:
+bangkok's cluster contains the following cities:
+bangkok
+buenos-aires
+penang
+
+Analysis for dubai city:
+dubai's cluster contains the following cities:
+colombo
+dubai
+doha
+sharjah
+
+Analysis for sao-paulo city:
+sao-paulo's cluster contains the following cities:
+rio-de-janeiro
+cancun
+sao-paulo
+makati
+pattaya
+monterrey
+panama-city
+goiania
+
