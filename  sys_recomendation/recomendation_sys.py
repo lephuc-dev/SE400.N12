@@ -154,8 +154,14 @@ scaled_df, line_index_in_df = read_scaled_data_from_json(
     features_names=city_features
 )
 
-scaled_values = scaled_df.values
+print("=======scaled_df=======")
+print(scaled_df)
+print("=======line_index_in_df==============")
+print(line_index_in_df)
 
+scaled_values = scaled_df.values
+print("=======scaled_values==============")
+print(scaled_values)
 
 total_nr_cities = len(scaled_values)
 
@@ -163,6 +169,10 @@ clusters, in_cluster = get_clustering_information(
     file_clusters_path=input_clusters_file_path,
     file_cities_info_path=input_cities_info_file_path
 )
+print("=======clusters==============")
+print(clusters)
+print("=======in_cluster==============")
+print(in_cluster)
 
 l2_min, l2_max, l2_mean = get_min_max_and_mean_values_for_l2_distance(
     cities_info_scaled_values=scaled_values
