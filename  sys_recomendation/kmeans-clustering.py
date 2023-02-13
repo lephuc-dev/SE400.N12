@@ -52,8 +52,7 @@ def build_clustering(X, nr_clusters_to_be_tested, cities_name):
     )
 
     print(f'Best silhouette score is {best_score} for {best_nr_clusters} clusters')
-    # When clustering the cities based all of their features,
-    # best silhouette score is 0.13796554112515688 for 20 clusters - Not so good!
+
 
     km = KMeans(n_clusters=best_nr_clusters, random_state=42).fit(X)
 
